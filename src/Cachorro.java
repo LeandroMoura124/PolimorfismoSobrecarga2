@@ -14,7 +14,7 @@ public class Cachorro extends Lobo{
         if(frase == "Toma comida" || frase == "Olá"){
             System.out.println("Abanar e latir");
         }
-        else if(frase == "Cachorro feio" || frase == "Sai daqui"){
+        else{
             System.out.println("Rosnar e ficar bravo");
         }
     }
